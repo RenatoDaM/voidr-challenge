@@ -43,7 +43,7 @@ For most of this project, I chose composition over inheritance, reinforcing the 
 
 ## Test Results
 
-We can use [playwright report](/playwright-report/index.html) as test result opening with a browser, 
+We can use **playwright report** as test result when running `npx playwright show-report`, 
 but I also created a document to discuss about test that failed even for "standard_user": [execution-report](/test-plan-execution-report/execution-report-2025-03-21.md)
 
 ## Test Plans
