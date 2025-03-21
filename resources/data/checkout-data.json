@@ -1,0 +1,32 @@
+{
+  "validUsers": {
+    "standardUser": {
+          "firstName": "John",
+          "lastName": "Doe",
+          "postalCode": "90210"
+        }
+  },
+  "invalidUsers": {
+    "invalidPostalCodeUser": {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "postalCode": "@ç"
+    },
+    "blankUser": {
+        "firstName": " ",
+        "lastName": " ",
+        "postalCode": " "
+    },
+    "userWithoutFirstName": {
+        "firstName": "",
+        "lastName": "Doe",
+        "postalCode": "90210"
+    },
+    "userWithoutPostalCode": {
+        "firstName": "Katarina",
+        "lastName": "Silva",
+        "postalCode": ""
+    }
+  }
+}
+  

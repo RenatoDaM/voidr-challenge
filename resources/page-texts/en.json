@@ -1,0 +1,17 @@
+{
+    "header": {
+        "openSidebarMenuButton": "Open Menu",
+        "closeSidebarMenuButton": "Close Menu"
+    },
+    "productsPage": {
+        "addToCartButton": "Add to cart",
+        "removeFromCartButton": "Remove"
+    },
+    "cartPage": {
+        "addToCartButton": "Add to cart",
+        "removeFromCartButton": "Remove"
+    },
+    "checkoutCompletePage": {
+        "completeHeader": "Thank you for your order!"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "baseUrl": "./",
+      "paths": {
+        "@test-configuration": ["./configuration/test-configuration"],
+        "@resources/*": ["./resources/*"],
+        "@page-objects/*": ["./page-objects/*"],
+        "@utils/*": ["./utils/*"],
+      }
+    }
+  }
+  
