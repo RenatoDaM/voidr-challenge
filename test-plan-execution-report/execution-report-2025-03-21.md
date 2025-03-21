@@ -4,9 +4,9 @@ Failling tests
 
 | Test Case | Failling cause                                                                                    |
 |-----------|---------------------------------------------------------------------------------------------------|
-|  [TC_017](./failed-evidences/tc-017.png)   | Item total from checkout page not matching regex. Item total price displayed has more than two decimal digits |
-|  [TC_018](./failed-evidences/tc-018.png)   | Checkout without any product was a success                                                                    |
-|  [TC_019](./failed-evidences/tc-019.png)   | Checkout with invalid postal code was a success                                                               |
-|  [TC_022](./failed-evidences/tc-022.png)   | Checkout with blank values was a success                                                                      |
-|  [TC_025](./failed-evidences/tc-015.png)   | It was possible skip steps to reach the "checkout complete" page directly via URL                                |
+|  TC_017   | Item total from checkout page not matching regex. Item total price displayed has more than two decimal digits |
+|  TC_018   | Checkout without any product was a success                                                                    |
+|  TC_019   | Checkout with invalid postal code was a success                                                               |
+|  TC_022   | Checkout with blank values was a success                                                                      |
+|  TC_025   | It was possible skip steps to reach the "checkout complete" page directly via URL                                |
 
